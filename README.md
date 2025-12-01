@@ -1,4 +1,4 @@
-#  42 Piscine - 2025 kadirmabs
+#  42 Piscine - 2025 kadirmbas
 
 ![IMG_3245](https://github.com/user-attachments/assets/adb6ee72-155b-46fb-8119-f595a132b45a)
 
